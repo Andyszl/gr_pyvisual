@@ -13,8 +13,13 @@
 - `data/`：存放节点和边数据的目录。
 
 ## 使用方法
+1. 创建虚拟环境
+ ```bash
+   conda create -n grv python==3.11 -y
+   conda activate grv
 
-1. 安装依赖：
+2.  安装依赖：
 
    ```bash
+   cd  .\gr_pyvisual\
    pip install -r requirements.txt
