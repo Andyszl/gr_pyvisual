@@ -23,3 +23,7 @@
    ```bash
    cd  .\gr_pyvisual\
    pip install -r requirements.txt
+
+3. 运行
+ ```bash
+streamlit run app.py
